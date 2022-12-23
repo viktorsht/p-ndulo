@@ -1,1 +1,1 @@
-# p-ndulo
+# pêndulo
